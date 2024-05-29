@@ -2,7 +2,7 @@ import React from 'react';
 
 function FileUpload() {
   const handleFileUpload = (e) => {
-    // Logic to handle file upload
+    // Logic to handle file upload 
   };
 
   return (
